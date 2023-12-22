@@ -158,5 +158,5 @@ find / -perm -u=s 2>/dev/null
 ## _**Slides**_
 
 <p align="left">
-  Presentation Slides Link <a href="https://www.canva.com/design/DAF3FIq5v8w/IryxNG9Xy-jQZDPRP0HIXQ/view?utm_content=DAF3FIq5v8w&utm_campaign=designshare&utm_medium=link&utm_source=editor" style="text-decoration: none; color: inherit; font-weight: bold;">Here</a>
+  Presentation Slides Link <a href="https://github.com/gohar477/intro-to-CYS/blob/df3a48830f889df16bec40acd1ce8a482772ffcf/introtocys.pptx" style="text-decoration: none; color: inherit; font-weight: bold;">Here</a>
 </p>
